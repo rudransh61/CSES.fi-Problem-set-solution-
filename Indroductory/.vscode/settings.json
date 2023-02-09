@@ -34,7 +34,6 @@
     "**/.vscode/**"
   ],
   "files.associations": {
-    "cstdlib": "cpp",
     "iostream": "cpp"
   }
 }
